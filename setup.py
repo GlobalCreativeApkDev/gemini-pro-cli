@@ -9,7 +9,7 @@ def readme():
 
 setup(
     name='gemini-pro-cli',
-    version='1',
+    version='1.1',
     packages=['gemini-pro-cli'],
     url='https://github.com/GlobalCreativeApkDev/gemini-pro-cli',
     license='MIT',

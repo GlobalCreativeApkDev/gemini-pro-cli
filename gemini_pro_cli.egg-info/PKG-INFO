@@ -1,3 +1,16 @@
+Metadata-Version: 2.1
+Name: gemini-pro-cli
+Version: 1.1
+Summary: This package contains implementation of the application enabling Gemini Pro usage on command-line interface (CLI).
+Home-page: https://github.com/GlobalCreativeApkDev/gemini-pro-cli
+Author: GlobalCreativeApkDev
+Author-email: globalcreativeapkdev2022@gmail.com
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 # gemini-pro-cli
 
 This application allows users to use Gemini Pro on command-line interface (CLI).
